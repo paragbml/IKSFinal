@@ -125,7 +125,7 @@ export default function Home() {
 
   const teamMembers = [
     "10837 Parag Bomble",
-    "10850 Aarya Dixit",
+    "10850 Arya Dixit",
     "10851 Cyd Dsouza",
     "10843 Royson Colaco",
     "10832 Aaron Sudesan",
