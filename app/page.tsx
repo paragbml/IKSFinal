@@ -19,7 +19,7 @@ export default function Home() {
   const religiousSites = [
     {
       name: "Golden Temple",
-      image: "/golden-temple.jpg",
+      image: "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2019/11/golden-temple-feature.jpg",
       info: "The Golden Temple, also known as Sri Harmandir Sahib, is a gurdwara located in Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism.",
       detailedInfo:
         "The Golden Temple, also known as Sri Harmandir Sahib, is a gurdwara located in Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism. The temple is built around a man-made pool (sarovar) that was completed by the fourth Sikh Guru, Guru Ram Das, in 1577. The Golden Temple is spiritually the most significant shrine in Sikhism. The temple is surrounded by a large lake, known as the Sarovar, which consists of Amrit (holy water). There are four entrances to the temple, signifying the importance of acceptance and openness.",
