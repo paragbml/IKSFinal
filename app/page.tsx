@@ -32,7 +32,7 @@ export default function Home() {
     },
     {
       name: "Basilica of Bom Jesus",
-      image: "/basilica-bom-jesus.jpg",
+      image: "https://s7ap1.scene7.com/is/image/incredibleindia/basilica-of-bom-jesus-goa-2-musthead-hero?qlt=82&ts=1726735448817",
       info: "The Basilica of Bom Jesus is a Roman Catholic basilica located in Goa, India. It holds the mortal remains of St. Francis Xavier and is a UNESCO World Heritage Site.",
       detailedInfo:
         "The Basilica of Bom Jesus is a Roman Catholic basilica located in Goa, India. It holds the mortal remains of St. Francis Xavier and is a UNESCO World Heritage Site. The basilica is located in Old Goa, which was the capital of Goa in the early days of Portuguese rules. 'Bom Jesus' means 'Good Jesus' or 'Infant Jesus'. The Basilica of Bom Jesus is more than 408 years old and is open to the public every day. The body of St. Francis Xavier is kept in a well-decorated casket, which can be seen in the photographs below. Devotees from all over the world visit the basilica.",
@@ -45,7 +45,7 @@ export default function Home() {
     },
     {
       name: "Kashi Vishwanath Temple",
-      image: "/kashi-vishwanath.jpg",
+      image: "https://images.deccanherald.com/deccanherald%2Fimport%2Fsites%2Fdh%2Ffiles%2Fgallery_images%2F2021%2F12%2F13%2Ffile7isza4ot6aw9qigt9hy.jpg?format=webp&q=70&w=400&dpr=2",
       info: "Kashi Vishwanath Temple is one of the most famous Hindu temples dedicated to Lord Shiva. It is located in Varanasi, Uttar Pradesh, India.",
       detailedInfo:
         "Kashi Vishwanath Temple is one of the most famous Hindu temples dedicated to Lord Shiva. It is located in Varanasi, Uttar Pradesh, India. The temple stands on the western bank of the holy river Ganga, and is one of the twelve Jyotirlingas, the holiest of Shiva temples. The main deity is known by the names Shri Vishwanath and Vishweshwara (IAST: Vishveshvara) literally meaning Lord of the Universe. The temple has been destroyed and rebuilt several times throughout history, with the current structure being built in 1780 by the Maratha ruler, Ahilya Bai Holkar of Indore.",
@@ -58,7 +58,7 @@ export default function Home() {
     },
     {
       name: "Haji Ali Dargah",
-      image: "/haji-ali-dargah.jpg",
+      image: "https://www.theleela.com/prod/content/assets/styles/tl_1920_735/public/aio-banner/dekstop/Haji-Ali.jpg.webp?VersionId=lRdsHGsZCS0VkOhifisffqaqn6ro0MA8&itok=FEw2P2cy",
       info: "Haji Ali Dargah is a mosque and dargah located on an islet off the coast of Worli in Mumbai, India. It contains the tomb of Sayed Peer Haji Ali Shah Bukhari.",
       detailedInfo:
         "Haji Ali Dargah is a mosque and dargah (tomb) located on an islet off the coast of Worli in Mumbai, India. It contains the tomb of Sayed Peer Haji Ali Shah Bukhari. The dargah was built in 1431 in memory of a wealthy Muslim merchant who gave up all his worldly possessions before making a pilgrimage to Mecca. The structure is built on a tiny islet located 500 meters from the coast, in the middle of Worli Bay, in the vicinity of Worli. The islet is linked to the city by a narrow causeway, which is submerged during high tide. This 585-year-old structure attracts visitors from all over the world irrespective of their faith and belief.",
@@ -71,7 +71,7 @@ export default function Home() {
     },
     {
       name: "Global Vipassana Pagoda",
-      image: "/global-vipassana-pagoda.jpg",
+      image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/19/88/12/global-vipassana-pagoda.jpg?w=1200&h=-1&s=1",
       info: "The Global Vipassana Pagoda is a meditation dome in Mumbai, India. It contains the world's largest stone dome built without supporting pillars and serves as a monument of peace and harmony.",
       detailedInfo:
         "The Global Vipassana Pagoda is a meditation dome in Mumbai, India. It contains the world's largest stone dome built without supporting pillars and serves as a monument of peace and harmony. The pagoda was built as a tribute to Sayagyi U Ba Khin (1899-1971), an influential Burmese Vipassana teacher and the first Accountant General of independent Burma. The pagoda's design is inspired by the Shwedagon Pagoda in Yangon, Myanmar. The purpose of the monument is to spread information about Vipassana, a meditation technique said to have been taught by the Buddha, and to house relics of the Buddha.",
@@ -84,7 +84,7 @@ export default function Home() {
     },
     {
       name: "Dhamek Stupa",
-      image: "/dhamek-stupa.jpg",
+      image: "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1702021011_dhamek_stupa.jpg.webp",
       info: "Dhamek Stupa is a massive stupa located at Sarnath, 13 km away from Varanasi in Uttar Pradesh, India. It marks the spot where Buddha gave his first sermon to his five disciples after attaining enlightenment.",
       detailedInfo:
         "Dhamek Stupa is a massive stupa located at Sarnath, 13 km away from Varanasi in Uttar Pradesh, India. It marks the spot where Buddha gave his first sermon to his five disciples after attaining enlightenment. The stupa was built in 500 CE to replace an earlier structure commissioned by Emperor Ashoka in 249 BCE. The stupa is 43.6 meters tall and 28 meters in diameter. The basement seems to have survived from Ashoka's structure, whose plinth decorated with sculpted human figures and animals is partially preserved. The wall is covered with delicately carved figures of humans and birds, as well as inscriptions in the Brahmi script.",
@@ -97,7 +97,7 @@ export default function Home() {
     },
     {
       name: "Mount Mary Church",
-      image: "/mount-mary-church.jpg",
+      image: "https://s7ap1.scene7.com/is/image/incredibleindia/mount-mary-church-mumbai-maharashtra-2-attr-hero?qlt=82&ts=1727355270494",
       info: "Mount Mary Church, officially known as the Basilica of Our Lady of the Mount, is a Roman Catholic Basilica located in Bandra, Mumbai. The church is one of the most visited churches in India.",
       detailedInfo:
         "Mount Mary Church, officially known as the Basilica of Our Lady of the Mount, is a Roman Catholic Basilica located in Bandra, Mumbai. The church is one of the most visited churches in India. The church stands on a hillock about 80 meters above sea level overlooking the Arabian Sea. It draws lakhs of devotees and pilgrims annually. Many faithful attest to the miraculous powers of the statue of Mother Mary enshrined within. During the annual feast of the Blessed Virgin Mary, which is celebrated on the first Sunday after September 8, the birthday of the Virgin Mary, pilgrims from all faiths visit the church to pray and offer their thanksgiving.",
@@ -110,7 +110,7 @@ export default function Home() {
     },
     {
       name: "Ajmer Sharif Dargah",
-      image: "/ajmer-sharif-dargah.jpg",
+      image: "https://images.nativeplanet.com/hi/img/2022/06/untitleddesign15-1655143651.jpg",
       info: "Ajmer Sharif Dargah is a sufi shrine of the revered sufi saint, Moinuddin Chishti, located at Ajmer, Rajasthan, India. The shrine has Mughal architecture and is visited by people of all faiths.",
       detailedInfo:
         "Ajmer Sharif Dargah is a sufi shrine of the revered sufi saint, Moinuddin Chishti, located at Ajmer, Rajasthan, India. The shrine has Mughal architecture and is visited by people of all faiths. The shrine has the grave (Maqbara) of the revered saint, Moinuddin Chishti, who came to Ajmer from Persia in 1192 and died in Ajmer in 1236. The shrine is known as 'Dargah Sharif' or 'Ajmer Sharif' and is an international waqf (an Islamic mortmain managed by the Dargah Committee). The shrine is visited by millions of people every year, irrespective of their religion, to seek blessings from the Sufi saint.",
